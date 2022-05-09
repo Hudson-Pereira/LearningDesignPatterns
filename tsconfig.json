@@ -2,7 +2,7 @@
     "compilerOptions":{
         "target":"ES2022",
         "module":"CommonJs",
-        "libs":["ESNext","DOM"],
+        "lib":["ESNext","DOM"],
         "outDir":"./dist",
         "rootDir":"./src",
         "removeComments":true,
